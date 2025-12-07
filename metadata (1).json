@@ -1,0 +1,5 @@
+{
+  "name": "Chase Online Banking",
+  "description": "A high-fidelity online banking simulation for Chase, featuring secure authentication, interactive dashboards, transaction history, and AI-powered insights using Gemini.",
+  "requestFramePermissions": []
+}
